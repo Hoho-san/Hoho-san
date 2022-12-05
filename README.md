@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hoho-san
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on myself
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Programming 
+- 🌱 I’m currently learning React and Django
+- ☕ I'm self-taught programmer
+
 
 <!---
 Hoho-san/Hoho-san is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
