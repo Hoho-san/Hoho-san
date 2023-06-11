@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hoho-san
 - 👀 I’m interested in Web Programming 
-- 🌱 I’m currently learning React and Django
+- 🌱 I’m currently learning React and PHP as my back end
 - ☕ I'm self-taught programmer
 
 
