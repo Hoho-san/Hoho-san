@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jojo Berber Javier</h1>
+<h1 align="center">Hi 👋, I'm Jojo</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 - 🧠 Skills: `.NET`, `C#`, `Unity`, `SQL`, `SAP B1 SDK`, `Git`, `System Optimization`
 - 💼 I work at **Fasttrack Solution Inc.**
 - 💬 Ask me about **C# performance tuning, automation, and SAP B1 integration**
-- 🖥️ Portfolio : [jojojavier.dev](https://hohosan-react.vercel.app/)
+- 🖥️ Portfolio : (https://hohosan-react.vercel.app/)
 
 ---
 
