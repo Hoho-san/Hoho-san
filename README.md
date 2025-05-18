@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **SAP B1 Add-ons and .NET services**
 - 🧠 Skills: `.NET`, `C#`, `Unity`, `SQL`, `SAP B1 SDK`, `Git`, `System Optimization`
 - 💼 I work at **OGIS Philippines Inc.**
-- 💬 Ask me about **C# performance tuning, automation, and SAP B1 integration**
+- 💬 Ask me about **C# performance tuning, automation, and SAP B1 Integration**
 - 🖥️ Portfolio : https://hohosan-react.vercel.app/
 
 ---
