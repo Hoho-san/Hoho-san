@@ -12,7 +12,7 @@
 - 🔭 I’m currently working as .NET Developer
 - 🧠 Skills: `.NET`, `C#`, `Unity`, `SQL`, `SAP B1 SDK`, `Git`, `System Optimization`
 - 💼 I work at **OGIS Philippines Inc.**
-- 💬 Ask me about **C# performance tuning, automation, and SAP B1 Integration**
+- 💬 Ask me about **C# Performance tuning, Automation, and SAP B1 Integration**
 - 🖥️ Portfolio : https://hohosan-react.vercel.app/
 
 ---
