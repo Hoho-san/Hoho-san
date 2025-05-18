@@ -1,66 +1,49 @@
-<h1 align="center">✨ Project Name ✨</h1>
+<h1 align="center">Hi 👋, I'm Jojo Berber Javier</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red.svg" alt="Made with Love">
-</p>
-
-<p align="center">
-  🚀 A brief, catchy tagline of what your project does and why it matters.
+  <img src="https://komarev.com/ghpvc/?username=jojoberberjavier&label=Profile%20views&color=0e75b6&style=flat" alt="me" />
 </p>
 
 ---
 
-## 🎯 Features
+## 🚀 About Me
 
-- ✅ Feature One – A cool thing
-- ✅ Feature Two – Another cool thing
-- ✅ Feature Three – Yet another awesome capability
-
----
-
-## 🌐 Demo
-
-> [Live Demo](https://your-demo-link.com)  
-> [Screenshots 📸](#-screenshots)
-
----
-
-## 🖼️ Screenshots
-
-<details>
-<summary>Click to expand</summary>
-
-| Home | Dashboard |
-|------|-----------|
-| ![Home](assets/home.png) | ![Dashboard](assets/dashboard.png) |
-
-</details>
+- 🔭 I’m currently working on **SAP B1 Add-ons and .NET services**
+- 🧠 Skills: `.NET`, `C#`, `Unity`, `SQL`, `SAP B1 SDK`, `Git`, `System Optimization`
+- 💼 I work at **Fasttrack Solution Inc.**
+- 💬 Ask me about **C# performance tuning, automation, and SAP B1 integration**
+- 🖥️ Portfolio : [jojojavier.dev](https://hohosan-react.vercel.app/)
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tech | Description |
-|------|-------------|
-| ⚙️ Language | `C#`, `JavaScript`, `PHP`, etc. |
-| 🧰 Framework | `.NET`, `Unity`, `Laravel`, etc. |
-| 🗄️ Database | `MySQL`, `SQL Server`, etc. |
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ---
 
-## 🚀 Installation
+## 📊 GitHub Stats
 
-```bash
-# 1. Clone the repo
-git clone https://github.com/yourusername/your-repo.git
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jojoberberjavier&show_icons=true&theme=radical" alt="Jojo's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojoberberjavier&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-# 2. Change directory
-cd your-repo
+---
 
-# 3. Install dependencies
-npm install
+## 📫 Let's Connect!
 
-# 4. Start the app
-npm run dev
+<p align="left">
+  <a href="https://linkedin.com/in/jojoberberjavier" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jojoberberjavier@outlook.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ *Don't forget to follow me and check out my repositories!*
