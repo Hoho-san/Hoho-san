@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **SAP B1 Add-ons and .NET services**
 - 🧠 Skills: `.NET`, `C#`, `Unity`, `SQL`, `SAP B1 SDK`, `Git`, `System Optimization`
-- 💼 I work at **Fasttrack Solution Inc.**
+- 💼 I work at **OGIS Philippines Inc.**
 - 💬 Ask me about **C# performance tuning, automation, and SAP B1 integration**
-- 🖥️ Portfolio : (https://hohosan-react.vercel.app/)
+- 🖥️ Portfolio : https://hohosan-react.vercel.app/
 
 ---
 
@@ -27,21 +27,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jojoberberjavier&show_icons=true&theme=radical" alt="Jojo's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojoberberjavier&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/jojoberberjavier" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jojoberberjavier@outlook.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jojojavier/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
