@@ -9,10 +9,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working as .NET Developer
+- 🔭 I’m currently working as Associate Software Engineer
 - 🧠 Skills: `.NET`, `C#`, `Unity`, `SQL`, `SAP B1 SDK`, `Git`, `System Optimization`
-- 💼 I work at **OGIS Philippines Inc.**
-- 💬 Ask me about **C# Performance tuning, Automation, and SAP B1 Integration**
+- 💼 I work at **Sercomm Philippines Inc.**
 - 🖥️ Portfolio : https://hohosan-react.vercel.app/
 
 ---
