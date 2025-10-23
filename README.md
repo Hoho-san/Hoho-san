@@ -32,7 +32,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/jojojavier/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-https://docs.google.com/document/d/11FOkWunlAAadNpZl8IezcGKJzkatWvM60ERQvm-cM1g/edit?usp=drivesdk
+
 ---
 
 ⭐️ *Don't forget to follow me and check out my repositories!*
