@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working as Associate Software Engineer
+- 🔭 I’m currently working as an Associate Software Engineer
 - 🧠 Skills: `.NET`, `C#`, `Unity`, `SQL`, `SAP B1 SDK`, `Git`, `System Optimization`
 - 💼 I work at **Sercomm Philippines Inc.**
 - 🖥️ Portfolio : https://hohosan-react.vercel.app/
