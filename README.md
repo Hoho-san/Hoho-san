@@ -23,8 +23,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=80&section=header"/>
-
 ## About Me
 
 <p align="center">
