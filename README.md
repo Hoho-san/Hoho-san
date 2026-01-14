@@ -45,10 +45,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0E75B6&height=2"/>
-
----
-
 ## Connect With Me
 
 <p align="center">
