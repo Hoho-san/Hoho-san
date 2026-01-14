@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jojo</h1>
+<h1 align="center">Hi! , I'm Jojo</h1>
 <h3 align="center">Associate Software Engineer</h3>
 
 <p align="center">
@@ -7,16 +7,16 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 I’m currently working as an Associate Software Engineer
-- 🧠 Skills: `.NET`, `C#`, `Unity`, `SQL`, `SAP B1 SDK`, `Git`, `System Optimization`
-- 💼 I work at **Sercomm Philippines Inc.**
-- 🖥️ Portfolio : https://hohosan-react.vercel.app/
+-  I’m currently working as an Associate Software Engineer
+- Skills: `.NET`, `C#`, 'Python', 'Docker' , `Unity`, `SQL`, `SAP B1 SDK`, `Git`, `System Optimization`
+- I work at **Sercomm Philippines Inc.**
+- Portfolio : https://hohosan-react.vercel.app/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -27,7 +27,7 @@
 ---
 
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jojojavier/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -35,4 +35,4 @@
 
 ---
 
-⭐️ *Don't forget to follow me and check out my repositories!*
+*Don't forget to follow me and check out my repositories!*
