@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHc0eW50bmx5Y2l4eG55dnZrN3ZsOG41YW9pOTlnd2RjZzVnNDFmYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+  <img src="https://media.tenor.com/CrWHpzxIZYEAAAAC/cat-typing-gif.gif" width="400"/>
 </p>
 
 <p align="center">
@@ -39,8 +39,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0E75B6&height=2"/>
-
 ## Tech Stack
 
 <p align="center">
@@ -51,23 +49,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0E75B6&height=2"/>
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jojoberberjavier&show_icons=true&theme=react&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jojoberberjavier&theme=react&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jojoberberjavier&theme=react-dark&hide_border=true"/>
-</p>
-
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=80&section=footer"/>
 
 ## Connect With Me
 
