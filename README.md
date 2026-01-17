@@ -24,11 +24,6 @@
 ---
 
 ## About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9rbjdzbDlsb3B6NXdkM3drZ2Q0d2o1eTVwdzQ3MmpyZ3o0dG9zaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QssGEmpkyEOhBCb7e1/giphy.gif" width="220"/>
-</p>
-
 - Associate Software Engineer at **Sercomm Philippines Inc.**
 - Specialized in backend systems, optimization, and enterprise tools
 - Experience with ERP integrations and internal tooling
