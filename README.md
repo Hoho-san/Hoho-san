@@ -31,6 +31,12 @@
 - Portfolio: https://hohosan-react.vercel.app/
 
 ---
+```
+ipconfig
+
+```
+
+---
 
 ## Tech Stack
 
