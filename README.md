@@ -1,17 +1,9 @@
-<h1 align="center">Hi, I'm <span style="color:#378ADD">Jojo</span> 👋</h1>
+<h1 align="center">Hi, I'm <span style="color:#378ADD">Jojo</span></h1>
 
-<h3 align="center">Software Engineer · Backend Automation · System Integration</h3>
-
-<p align="center">
-  <img src="https://media.tenor.com/CrWHpzxIZYEAAAAC/cat-typing-gif.gif" width="380"/>
-</p>
+<h3 align="center">Software Engineer · Backend Developer · System Integration</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jojoberberjavier&label=Profile%20Views&color=378ADD&style=flat-square"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=1D9E75&center=true&vCenter=true&width=620&lines=Software+Engineer+%40+Sercomm+Corp.;Backend+Automation+%26+System+Integration;Python+%7C+C%23+%7C+.NET+%7C+Docker+%7C+SQL;System+Architecture+%26+Design;Full+Stack+Web+%26+Game+Dev" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -23,26 +15,16 @@
 
 ---
 
-<div align="center">
+## About
 
-| 2+ | 60% | 6 |
-|:---:|:---:|:---:|
-| years experience | perf. improvement | shipped projects |
-
-</div>
-
----
-
-## ╔ About
-
-> Software engineer specializing in **backend automation** and **system integration**.
+> Software engineer specializing in **backend development** and **system integration**.
 > Currently building warehouse automation at **Sercomm Corp.** — cutting manual ops from `3 mins → 5 sec`.
 > Previously at Fasttrack Solution Inc., delivering `60% perf gains` and zero-downtime ERP integrations.
 > Also ships mobile games with Unity, and AI-powered side projects.
 
 ---
 
-## ╔ Experience
+## Experience
 
 **Sercomm Corp.** &nbsp;`Jul 2025 – present`
 ```
@@ -62,24 +44,15 @@
 
 ---
 
-## ╔ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,docker,react,mysql,git,unity&perline=8"/>
 </p>
 
-| Skill | Proficiency |
-|---|---|
-| Python | `████████░░` 85% |
-| C# / .NET | `████████░░` 80% |
-| SQL (MSSQL / MySQL) | `████████░░` 78% |
-| Docker | `███████░░░` 75% |
-| Unity / C# | `███████░░░` 72% |
-| React | `███████░░░` 70% |
-
 ---
 
-## ╔ Projects
+## Projects
 
 | Project | Year | Tags | Description |
 |---|---|---|---|
@@ -92,15 +65,8 @@
 
 ---
 
-## ╔ Education
 
-**Bachelor of Science in Computer Science**
-Tanauan Institute Inc. &nbsp;`2020 – 2024`
-> Networking · Data Structures · Algorithms · Web Development
-
----
-
-## ╔ Connect
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jojojavier/">
@@ -117,5 +83,5 @@ Tanauan Institute Inc. &nbsp;`2020 – 2024`
 </p>
 
 <p align="center">
-  <sub>javierjojo.dev@gmail.com · 09078385548 · Muntinlupa City, Metro Manila, Philippines</sub>
+  <sub>javierjojo.dev@gmail.com · Muntinlupa City, Metro Manila, Philippines</sub>
 </p>
