@@ -24,10 +24,6 @@
 - Strong focus on clean architecture and maintainable code
 - Portfolio: https://hohosan-react.vercel.app/
 ---
-
-ipconfig
-
----
 ## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,docker,git,unity,mssql&perline=7" />
@@ -39,4 +35,3 @@ ipconfig
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
----
